@@ -1,0 +1,53 @@
+#id1{
+    color:red;
+}
+#id2{
+    color: #0000ff;
+}
+/* h1{
+    color:red;
+} */
+/* p{
+    color:#0000ff;
+} */
+button{
+    color:brown;
+    background-color: rgb(255,255,255);
+}
+body{
+    background-color: aqua;
+}
+.c1{
+    color: blue;
+}
+h1{
+    text-align: center;
+    text-decoration: wavy underline;
+    /* font-weight: bolder; */
+    font-weight: 900;
+}
+p{
+    font-family: cursive;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: capitalize;
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: white; */
+    border: 2px solid white;
+    width: 500px;
+    border-radius: 15px;
+    /* border-radius: 50%;   <---used for make circles  */
+    /* padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px; */
+    padding: 15px;
+    /* padding: 10px 10px 10px 10px; */
+    /* margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px; */
+    margin: 20px;
+    /* margin: 20px 20px 20px 20px; */
+}

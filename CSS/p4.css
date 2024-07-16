@@ -1,0 +1,20 @@
+ul{
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color: blue;
+}
+li{
+    list-style-type: none;
+    background-color: aqua;
+    display: inline;
+}
+@media(min-width:600px){
+    a{
+        background-color: red;
+    }
+}

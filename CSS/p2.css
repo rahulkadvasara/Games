@@ -1,0 +1,8 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+    background-image: url("IMG_20231022_111358.jpg");
+    position: fixed;
+    right: 0px;
+}
